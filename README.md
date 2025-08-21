@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=热爱编程的开发者;持续学习新技术;专注于[你的专业领域])
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=热爱编程的开发者;持续学习新技术;专注于區塊鏈)
 
 </div>
 
