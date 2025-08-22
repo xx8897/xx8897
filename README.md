@@ -11,12 +11,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xx8897&theme=tokyonight&hide_border=true)
 
 
-
-## 📈 贡献图
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=xx8897&theme=tokyo-night&hide_border=true&area=true)
-
-
 ---
 
 <div align="center">
