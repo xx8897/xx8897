@@ -26,14 +26,9 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://metrics.lecoq.io/xx8897?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FTaipei" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xx8897&theme=tokyonight" />
 </p>
 <p align="left">
-  <img src="https://metrics.lecoq.io/xx8897?template=classic&base.header=0&base.metadata=0&languages=1&config.timezone=Asia%2FTaipei" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xx8897&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xx8897&theme=tokyonight" />
 </p>
-<p align="left">
-  <img src="https://metrics.lecoq.io/xx8897?template=classic&base.header=0&base.metadata=0&streak=1&config.timezone=Asia%2FTaipei" />
-</p>
-
-### 🤝 Connect
-- GitHub: [@xx8897](https://github.com/xx8897)
