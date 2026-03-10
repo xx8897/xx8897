@@ -3,15 +3,14 @@
   Software Engineer from Taiwan · Vibe Coding Daily
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Ship+fast.+Refine+later.;Code+with+intuition%2C+verify+with+logic.;Anything+interesting+is+worth+building." alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=false&vCenter=true&width=620&lines=Ship+fast.+Refine+later.;Code+with+intuition%2C+verify+with+logic.;Anything+interesting+is+worth+building." alt="Typing SVG" />
 </p>
 
 ---
 
 ### ⚡ About Me
-- 💼 我是工程師，不設限技術邊界
-- 🎛️ 主要模式：**vibe coding**（先做出來，再優化）
+- 💼 工程師，不設限技術邊界；主要模式是 **vibe coding**（先做出來，再優化）
 - 🧪 什麼都能學、什麼都能碰：前端 / 後端 / 工具 / 自動化
 - 🚀 信條：**Build first, iterate forever**
 
@@ -26,12 +25,14 @@
 - [Quiz](https://github.com/xx8897/Quiz) - JavaScript 練習型專案
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xx8897&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xx8897&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://metrics.lecoq.io/xx8897?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FTaipei" />
 </p>
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xx8897&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://metrics.lecoq.io/xx8897?template=classic&base.header=0&base.metadata=0&languages=1&config.timezone=Asia%2FTaipei" />
+</p>
+<p align="left">
+  <img src="https://metrics.lecoq.io/xx8897?template=classic&base.header=0&base.metadata=0&streak=1&config.timezone=Asia%2FTaipei" />
 </p>
 
 ### 🤝 Connect
