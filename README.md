@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=88C0D0&center=false&vCenter=true&width=620&lines=Ship+fast.+Refine+later.;Code+with+intuition%2C+verify+with+logic.;Anything+interesting+is+worth+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=88C0D0&center=false&vCenter=true&width=620&lines=Ship+fast.+Refine+later.;Code+with+intuition%2C+verify+with+logic.;Anything+interesting+is+worth+building." alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,15 @@
 
 ### 🧰 Current Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,c,git,github,docker,vscode&theme=dark" />
+  <img height="32" src="https://cdn.simpleicons.org/javascript/88C0D0" alt="JavaScript" />
+  <img height="32" src="https://cdn.simpleicons.org/typescript/88C0D0" alt="TypeScript" />
+  <img height="32" src="https://cdn.simpleicons.org/react/88C0D0" alt="React" />
+  <img height="32" src="https://cdn.simpleicons.org/nodedotjs/88C0D0" alt="Node.js" />
+  <img height="32" src="https://cdn.simpleicons.org/python/88C0D0" alt="Python" />
+  <img height="32" src="https://cdn.simpleicons.org/c/88C0D0" alt="C" />
+  <img height="32" src="https://cdn.simpleicons.org/git/88C0D0" alt="Git" />
+  <img height="32" src="https://cdn.simpleicons.org/github/88C0D0" alt="GitHub" />
+  <img height="32" src="https://cdn.simpleicons.org/docker/88C0D0" alt="Docker" />
 </p>
 
 ### 📊 GitHub Stats
@@ -25,5 +33,5 @@
 </p>
 <p align="left">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xx8897&theme=nord_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xx8897&theme=nord_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xx8897&theme=nord_dark&utcOffset=8" />
 </p>
